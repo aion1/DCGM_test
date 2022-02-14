@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Installation of DCGM and plugging with DCGM!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
